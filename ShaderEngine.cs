@@ -7,10 +7,8 @@ using System.Collections.Generic;
 using System.IO;
 using Newtonsoft.Json;
 using System.Linq;
-using System;
 using System.Text.RegularExpressions;
 using HarmonyLib;
-using Il2CppAssets.Scripts.Unity.UI_New.Settings;
 using Il2CppAssets.Scripts.Unity.UI_New.ChallengeEditor;
 
 [assembly: MelonInfo(typeof(ShaderEngine.ShaderEngine), ModHelperData.Name, ModHelperData.Version, ModHelperData.RepoOwner)]
