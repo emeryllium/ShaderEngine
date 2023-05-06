@@ -5,6 +5,6 @@
 
 <h1 align="center">ShaderEngine</h1>
 
-This mod makes it easy to add shaders into BTD6.
+<h4 align="center">Makes it easy to add shaders into BTD6. Downloaded shaders need a .assets and .json file.</h4>
 
 [![Requires BTD6 Mod Helper](https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/banner.png)](https://github.com/gurrenm3/BTD-Mod-Helper#readme)
